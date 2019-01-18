@@ -1,0 +1,38 @@
+//------------------
+LES PIERRES PRÉCIEUSES{
+    diamant,
+    emraude,
+    rubis,
+    saphir
+}
+
+LES PIERRES FINES{
+    citrine,
+    cornaline,
+    grenat,
+    opale
+}
+
+LES PIERRES organiques{
+    peridot,
+    perle,
+    spinelle,
+    topaze
+}
+//------------------
+
+//------------------
+quality {
+    EX => EXCELLENT,
+    VG => VERY GOOD,
+    G => GOOD,
+    F => FAIR,
+    P => POOR
+}
+//------------------
+size {
+    small ,
+    medium ,
+    big
+}
+//------------------
